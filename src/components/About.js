@@ -13,24 +13,21 @@ const About = () => {
             </div>
             <p className="text-xl mt-20">
                Hello, and welcome to my portfolio! My name is Akash, and I am a
-               Junior Web developer. I Will complete my B.E Degree in 2024 and I
-               am excited to continue honing my skills in this field. As a
+               Junior Web developer. I will complete my bachelor degree in 2024 and I
+               am excited to continue to develop my skills in this field. As a
                junior full stack developer, I am proficient in
-               C,C++,Html,Css,Tailwind
-               Css,Javascript,ReactJs,ViteJs,MongoDB,Mongoose. I am eager to
-               learn more and expand my knowledge, and I am always seeking out
-               new challenges to grow as a developer.
+               C, C++, Html 5, CSS 3, Tailwind CSS, Javascript, ReactJS, NodeJS, 
+               Express, MongoDB, Mongoose, Git. I am eager to learn more and 
+               expand my knowledge, and I am always seeking out new challenges 
+               to grow as a developer.
             </p>
             <br />
             <p className="text-xl">
-               In my work, I prioritize Your Work Ethos and I am dedicated to
-               writing clean, efficient, and maintainable code. I have
-               experience working on FrontEnd Projects and BackEnd Projects and
-               I am comfortable collaborating with other developers, designers,
-               and stockholders to deliver high-quality products. When I'm not
-               coding, I Take My Time for my Hobbies. Thank you for taking the
-               time to visit my portfolio, and please feel free to reach out to
-               me with any questions or opportunities!
+               In my work, I will make sure to prioritize your work ethics and I am dedicated to
+               write clean and efficient code. I have experience in working on both Front-End and 
+               Back-End Projects and I am comfortable collaborating with other developers, designers,
+               and clients to deliver high-quality products. Thank you for taking the time to visit my 
+               portfolio, and please feel free to reach out to me with any questions or opportunities!
             </p>
          </div>
       </div>

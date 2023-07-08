@@ -2,6 +2,7 @@ import React from "react";
 
 import FoodApp from "../assets/portfolio/foodapp logo.jpg";
 import GymLogo from "../assets/portfolio/gym logo new.jpg";
+import Book from "../assets/portfolio/book.jpg";
 
 const Portfolio = () => {
    const portfolios = [
@@ -14,8 +15,13 @@ const Portfolio = () => {
       {
          id: 2,
          src: GymLogo,
-         href: "https://github.com/Akashmurugan10/foodapp",
+         href:"https://github.com/akashm-18/gymapp"
       },
+      {
+         id:3,
+         src:Book,
+         href: "https://github.com/akashm-18/booklistapp",
+      }
    ];
 
    return (
@@ -44,8 +50,8 @@ const Portfolio = () => {
                      />
                      <div className="flex items-center justify-center ">
                         <a href={href} target="_blank">
-                           <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                              Code
+                           <button className="w-1/2 px-6 py-3 m-6 duration-200 hover:scale-105">
+                              GitHub Link
                            </button>
                         </a>
                      </div>
